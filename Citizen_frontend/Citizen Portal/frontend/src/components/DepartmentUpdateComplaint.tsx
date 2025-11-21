@@ -4,12 +4,12 @@
 
            import { useNavigate } from 'react-router-dom';
 
-          import "./Update_Complaint.css";
+          import "./DepartmentUpdateComplaint.css";
 
           
             import UpdateComplaint from './Resource/UpdateComplaint';
 
-            import Calendar from "./Calendar/Calendar";export default function Update_Complaint() { 
+            import Calendar from "./Calendar/Calendar";export default function DepartmentUpdateComplaint() { 
             const navigate = useNavigate(); 
   
 
